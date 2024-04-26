@@ -26,6 +26,14 @@ atlassian/jira-software
 ![alt text](image-4.png)
 (Si te sale un waring dale al ok  y introduce la contraseña en caso que te la pida y sigue con las instrucciones)
 
-## Quinto paso
-Ejecuta la task que acabas de crear
+## Quinto Paso
+Ejecuta la task que acabas de crear aceptando los popups que te salten
 ![alt text](image-5.png)
+
+## Sexto Paso
+Ejecutando ese proceso te permite que si usas el navegador y ejecutas este link con tu propia ip http://(TuIp):8059 te saldrá el setup del jira
+
+## Septimo Paso
+![alt text](image-7.png)
+Te saldrá esta interfaz, a partir de aqui has de configurar el setup del jira a tus gustos, clica en "Set it up for me" si quieres hacerlo del modo ràpido y facil, en cambio deberias darle a "I'll set it up by myself" en caso que quieras una instalación con unos parametros muy especificos como por ejemplo ambientados en la base de datos donde irá almacenado todo
+
